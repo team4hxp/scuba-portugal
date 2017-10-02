@@ -1,6 +1,7 @@
 # scuba-portugal
 Demonstration site
 
+## Team 4
 
 ## Init (virtual) env
 ```
