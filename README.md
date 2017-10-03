@@ -2,7 +2,7 @@
 # updated
 Demonstration site
 
-## Team 4
+## Fantastic four
 
 ## Init (virtual) env
 ```
