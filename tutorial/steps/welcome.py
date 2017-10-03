@@ -10,7 +10,6 @@ pause = 1
 @given("I am on the home page")
 def step_impl(context):
     context.browser.get('http://localhost:' + str(context.port))
-    time.sleep(pause)
 
 
 @when("I click on the welcome link")
